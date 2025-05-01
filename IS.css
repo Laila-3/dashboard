@@ -8,7 +8,7 @@
     color: rgb(111, 193, 218);
 }
 #header {
-    background-image: url(imgs/background.png);
+    background-image: url(background.png);
     height: 100vh;
     background-color:white;
     background-position: center;
